@@ -1,0 +1,1 @@
+include(ddns/DDNS.pri)
